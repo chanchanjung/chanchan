@@ -28,7 +28,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "hompage": "http://chanchanjung.github.io/chanchan",
+  "hompage": "http://chanchanjung.github.io/chanchan/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
