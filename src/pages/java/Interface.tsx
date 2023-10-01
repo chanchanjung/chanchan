@@ -1,7 +1,7 @@
 import {MarkdownRenderer} from "../../common/MarkdownRenderer";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import MARKDOWN from "posts/java/Interface.md";
+import MARKDOWN from "./posts/java/Interface.md";
 import rehypeRaw from "rehype-raw";
 import SyntaxHighlighter, {PrismLight} from "react-syntax-highlighter";
 import {materialDark, materialLight} from "react-syntax-highlighter/dist/cjs/styles/prism";
